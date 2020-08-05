@@ -16,7 +16,7 @@
 
 下载链接：https://pan.baidu.com/s/1bjH12xvYG0W2uIaoak1aIw
 
-提取码（貌似用不着）：rib6
+提取码：rib6
 
 注意：从百度网盘下载东西现在是得有百度帐号的！
 
