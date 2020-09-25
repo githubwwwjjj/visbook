@@ -37,6 +37,10 @@
 
 下载后的压缩包里有两个文件夹，标着code的是全部代码，标着data and images的是书里用到的所有数据和图片。用MAC的朋友如果解压后是乱码，请先用Windows解压一下。如果下载不了，请用以下方法。
 
+### 方法四
+
+如果上述方法都不行，请跟作者联系：textidea@sina.com
+
 # 二、代码更新
 
 #### 2020-06-25，ggplot2的theme函数里原来只有strip.text参数，现在多了 strip.text.x和strip.text.y
