@@ -27,7 +27,7 @@
 
 ### 方法三
 
-如果以上方法都不行，请移步百度网盘的链接：
+如果以上方法都不行，请移步百度网盘的链接（要么扫码登录，要么使用百度帐号登录）：
 
 下载链接：https://pan.baidu.com/s/1bjH12xvYG0W2uIaoak1aIw
 
@@ -70,3 +70,4 @@ p4 <- ggplot(df, aes(x, y4)) + geom_point()
 plot_grid(p1, p2, p3, p4, byrow=TRUE)
 plot_grid(p1, p2, p3, p4, byrow=FALSE) # 改为FALSE
 ```
+
