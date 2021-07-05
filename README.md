@@ -43,6 +43,8 @@
 
 # 二、代码更新
 
+#### 2021-07-05，数据文件的错误！请大家把terror ym.csv这个文件里的列标题改一下，否则会报错说找不到变量。列标题的首字母应该是大写，即，改为Date、Fatalities、Injuries
+
 #### 2020-06-25，ggplot2的theme函数里原来只有strip.text参数，现在多了 strip.text.x和strip.text.y
 
 ```R
